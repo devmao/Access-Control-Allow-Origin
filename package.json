@@ -1,0 +1,25 @@
+{
+  "name": "Access-Control-Allow-Origin",
+  "version": "1.0.0",
+  "description": "Access-Control-Allow-Origin ===========================",
+  "main": "background.js",
+  "scripts": {
+    "bower": "bower"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devmao/Access-Control-Allow-Origin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devmao/Access-Control-Allow-Origin/issues"
+  },
+  "homepage": "https://github.com/devmao/Access-Control-Allow-Origin#readme",
+  "devDependencies": {
+    "bower": "^1.8.4"
+  },
+  "dependencies": {
+  }
+}
